@@ -5,7 +5,6 @@
 in Terminal run..
 
 	$ python
-
 		>> import os
 		>> import sys
 		>> from scribe import *
